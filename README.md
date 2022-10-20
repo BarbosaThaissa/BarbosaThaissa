@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarbosaThaissa
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full-Stack Web Development
 - 📫 My contact: mariathatha03@gmail.com
 
 <!---
