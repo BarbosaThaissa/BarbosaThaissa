@@ -3,8 +3,8 @@
 I am a Full-Stack Developer focusing ReactJS (Web Front-End), NodeJS (Back-End) and React Native (Mobile Development).
 
 <div>
-   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&theme=dracula&count_private=true">
-   <img height="160em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
+   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&theme=dracula&count_private=true">
+   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
 </div>
 
 🚀 Toolbox
