@@ -19,8 +19,8 @@
 
 
 <div>
-   <img width="47%" height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&theme=dracula&count_private=true">
-   <img width="41%" height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
+   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&theme=dracula&count_private=true">
+   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
 </div>
 
 <img src="https://raw.githubusercontent.com/BarbosaThaissa/cine-info/main/src/assests/rainbow-readme.png" alt="arrow" />
