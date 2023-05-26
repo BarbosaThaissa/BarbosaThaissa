@@ -7,6 +7,8 @@ I am a Full-Stack Developer focusing ReactJS (Web Front-End), NodeJS (Back-End) 
    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
 </div>
 
+<img src="https://raw.githubusercontent.com/BarbosaThaissa/cine-info/main/src/assests/rainbow-readme.png" alt="arrow" />
+
 🚀 Toolbox
   <ul>
       <li>Front-End with ReactJS</li>
