@@ -1,4 +1,4 @@
-## Welcome to my profile! I'm Thaíssa Barbosa.
+## Welcome to my profile!
 
 I am a Full-Stack Developer focusing ReactJS (Web Front-End), NodeJS (Back-End) and React Native (Mobile Development).
 
