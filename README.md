@@ -9,7 +9,7 @@
 
 - I have one year of experience in Front-end development, working with React, Next.js, and Angular. Additionally, I have two years of experience in JavaScript and TypeScript. I have also gained one year of experience with TailwindCSS and Bootstrap.
 
-- I have six months of experience in Back-end development, working with C#, .NET, ASP.NET, Node.js, and RESTful APIs. During this period, I have acquired skills in these technologies, contributing to the development of robust and efficient applications.
+- I have six months of experience in Back-end development, working with C#, .NET, ASP.NET and Node.js. During this period, I have acquired skills in these technologies, contributing to the development of robust and efficient applications.
 
 - I have one year of experience in database management, working with MySQL and MongoDB. During this period, I have acquired skills in data manipulation and modeling, ensuring the integrity and efficiency of storage systems used in applications.
 
