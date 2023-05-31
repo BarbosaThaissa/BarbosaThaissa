@@ -1,7 +1,7 @@
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff006e&height=120&section=header"/> 
 
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=5DF722&width=435&lines=Hi!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&pause=1000&color=F66B92&width=435&lines=Hi!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
  
 <blockquote> <p>My name is <strong>Thaíssa</strong> and I'm a programmer with <strong>2 years</strong> of experience. I started programming at the age of 18 and have been working in this field ever since. I love learning about <strong>computer science, technology, and AI</strong>. <img src="https://slackmojis.com/emojis/49020-60fps_parrot/download" alt="party gif" width="30"></p> </blockquote> </div>
 
@@ -19,8 +19,8 @@
 
 
 <div align="center">
-   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&theme=dracula&count_private=true">
-   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&theme=dracula">
+   <img height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117">
+   <img height="195px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117">
 </div>
 
 <img src="https://raw.githubusercontent.com/BarbosaThaissa/cine-info/main/src/assests/rainbow-readme.png" alt="arrow" />
