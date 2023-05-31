@@ -19,8 +19,8 @@
 
 
 <div align="center">
-   <img width="400px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117">
-   <img width="400px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117">
+   <img width="420px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=barbosathaissa&show_icons=true&count_private=true&hide_border=true&title_color=F66B92&icon_color=F66B92&text_color=F66B92&bg_color=0d1117">
+   <img width="380px" height="175px" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=barbosathaissa&layout=compact&hide_border=true&title_color=F66B92&text_color=F66B92&bg_color=0d1117">
 </div>
 
 <img src="https://raw.githubusercontent.com/BarbosaThaissa/cine-info/main/src/assests/rainbow-readme.png" alt="arrow" />
