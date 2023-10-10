@@ -40,6 +40,9 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BarbosaThaissa}/count.svg" /></p> 
 <br>
+
+ [![An image of @barbosathaissa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/barbosathaissa)](https://holopin.io/@barbosathaissa)
+
 </div>
 
 
